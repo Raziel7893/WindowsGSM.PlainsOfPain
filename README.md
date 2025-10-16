@@ -1,7 +1,7 @@
 # WindowsGSM.PlainsOfPain
 🧩WindowsGSM plugin that provides PlainsOfPain Dedicated server
 
-## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
+## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS! CHECK BELOW FOR A TIP OPTION
 
 ### Notes
 - ServerName, Port and QueryPort are set via commandline. Its not really defined what happens if both define it, so i removed the port per default from the json.
