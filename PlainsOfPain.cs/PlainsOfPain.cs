@@ -12,16 +12,16 @@ using System.Collections.Generic;
 
 namespace WindowsGSM.Plugins
 {
-    public class PlanesOfPain : SteamCMDAgent
+    public class PlainsOfPain : SteamCMDAgent
     {
         // - Plugin Details
         public Plugin Plugin = new Plugin
         {
-            name = "WindowsGSM.PlanesOfPain", // WindowsGSM.XXXX
+            name = "WindowsGSM.PlainsOfPain", // WindowsGSM.XXXX
             author = "raziel7893",
-            description = "WindowsGSM plugin for supporting PlanesOfPain Dedicated Server",
+            description = "WindowsGSM plugin for supporting PlainsOfPain Dedicated Server",
             version = "1.0.0",
-            url = "https://github.com/Raziel7893/WindowsGSM.PlanesOfPain", // Github repository link (Best practice) TODO
+            url = "https://github.com/Raziel7893/WindowsGSM.PlainsOfPain", // Github repository link (Best practice) TODO
             color = "#34FFeb" // Color Hex
         };
 
@@ -30,10 +30,10 @@ namespace WindowsGSM.Plugins
         public override string AppId => "2227360"; // Game server appId Steam
 
         // - Standard Constructor and properties
-        public PlanesOfPain(ServerConfig serverData) : base(serverData) => base.serverData = serverData;
+        public PlainsOfPain(ServerConfig serverData) : base(serverData) => base.serverData = serverData;
 
         // - Game server Fixed variables
-        //public override string StartPath => "PlanesOfPainServer.exe"; // Game server start path
+        //public override string StartPath => "PlainsOfPainServer.exe"; // Game server start path
         public override string StartPath => "PlainsOfPain.exe";
         public string FullName = "Planes Of Pain Dedicated Server"; // Game server FullName
 

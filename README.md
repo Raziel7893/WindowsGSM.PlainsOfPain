@@ -1,5 +1,5 @@
-# WindowsGSM.PlanesOfPain
-🧩WindowsGSM plugin that provides PlanesOfPain Dedicated server
+# WindowsGSM.PlainsOfPain
+🧩WindowsGSM plugin that provides PlainsOfPain Dedicated server
 
 ## PLEASE ⭐STAR⭐ THE REPO IF YOU LIKE IT! THANKS!
 
@@ -16,9 +16,9 @@
 3. Drag WindowsGSM.Exe into previously created folder and execute it.
 
 ### Plugin Installation:
-1. Download [latest](https://https://github.com/Raziel7893/WindowsGSM.PlanesOfPain/releases/latest) release
+1. Download [latest](https://https://github.com/Raziel7893/WindowsGSM.PlainsOfPain/releases/latest) release
    Or click Code => Download .zip
-3. Either Extract then Move the folder **PlanesOfPain.cs** to **WindowsGSM/plugins** 
+3. Either Extract then Move the folder **PlainsOfPain.cs** to **WindowsGSM/plugins** 
     1. Press on the Puzzle Icon in the left bottom side and press **[RELOAD PLUGINS]** or restart WindowsGSM
 4. Or Press on the Puzzle Icon in the left bottom side and press **[IMPORT PLUGIN]** and choose the downloaded .zip
 
@@ -37,9 +37,9 @@
 - 27016 UDP - Default Query
 
 ### Files To Backup
-- Save Game (You could only save serverfiles/PlanesOfPain/Saved , but that includes many big logs)
-  - WindowsGSM\servers\%ID%\serverfiles/PlanesOfPain\save-dir
-  - WindowsGSM\servers\%ID%\serverfiles/PlanesOfPain/Configs
+- Save Game (You could only save serverfiles/PlainsOfPain/Saved , but that includes many big logs)
+  - WindowsGSM\servers\%ID%\serverfiles/PlainsOfPain\save-dir
+  - WindowsGSM\servers\%ID%\serverfiles/PlainsOfPain/Configs
 - WindowsGSM Config
   - WindowsGSM\servers\%ID%\configs
 
@@ -88,7 +88,7 @@ Many windowsgsm plugin creators recommend zerotier (should be a free VPN designa
 [Paypal](https://paypal.me/raziel7893)
 
 ### License
-This project is licensed under the MIT License - see the <a href="https://github.com/raziel7893/WindowsGSM.PlanesOfPain/blob/main/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/raziel7893/WindowsGSM.PlainsOfPain/blob/main/LICENSE">LICENSE.md</a> file for details
 
 ### Thanks
 Thanks to ohmcodes for the Enshrouded and Palworld Plugins which i used for guidance to create this one
