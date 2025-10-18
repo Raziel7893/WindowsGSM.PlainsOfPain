@@ -1,13 +1,11 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using WindowsGSM.Functions;
 using WindowsGSM.GameServer.Query;
 using WindowsGSM.GameServer.Engine;
 using System.IO;
-using Newtonsoft.Json;
 using System.Text;
-using System.Windows.Documents;
 using System.Collections.Generic;
 
 namespace WindowsGSM.Plugins
